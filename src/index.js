@@ -47,12 +47,12 @@ import Page500 from './views/Pages/Page500/'
 //window.location.reload();
 
 var config = {
-    apiKey: "AIzaSyBPweAHcP4em0PYh8XWzEqjNhTk3OBNS5I",
-    authDomain: "dashboard-dev-8b843.firebaseapp.com",
-    databaseURL: "https://dashboard-dev-8b843.firebaseio.com",
-    projectId: "dashboard-dev-8b843",
-    storageBucket: "dashboard-dev-8b843.appspot.com",
-    messagingSenderId: "264557605189"
+  apiKey: "AIzaSyBTvx7Ba2eQOjn0zzTSO-SC3w56JHfzZWo",
+  authDomain: "bt3103-dashboard-72786.firebaseapp.com",
+  databaseURL: "https://bt3103-dashboard-72786.firebaseio.com",
+  projectId: "bt3103-dashboard-72786",
+  storageBucket: "bt3103-dashboard-72786.appspot.com",
+  messagingSenderId: "246376152229"
   };
 firebase.initializeApp(config);
 
